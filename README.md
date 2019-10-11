@@ -1,2 +1,2 @@
 # TongBlog
-augustinetong.com/
+[augustinetong.com](https://augustinetong.com)
