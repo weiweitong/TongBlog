@@ -1,2 +1,2 @@
 # TongBlog
-Tong Blog https://augustinetong.com/
+augustinetong.com/
